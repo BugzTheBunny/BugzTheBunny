@@ -1,5 +1,4 @@
-<div style="align-items: center;align-content: center;justify-content: center;
-justify-items: center;">
+<div style="text-align:center;align=center">
 
 [comment]: <> (Hello)
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&center=true&multiline=true&repeat=false&width=405&height=100&lines=Hi%2C+I'm+Slava!;I'm+a+software+developer+%26+devops.;And+the+fianc%C3%A9+of+Liz+Lugasi+%F0%9F%A7%A1">
