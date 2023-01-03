@@ -32,7 +32,6 @@
 <h1 align = "center">
 
 <img src="https://thumbs.gfycat.com/HeftyGreenAidi-max-1mb.gif" width ="80"><b>![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&center=true&multiline=true&width=170&height=35&lines=Let's+talk!)</b>
-
 <a href="https://www.linkedin.com/in/vyachislav-lisitzin/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
