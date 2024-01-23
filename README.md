@@ -1,7 +1,7 @@
 <h1 align = "center">
 
 [comment]: <> (Hello)
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&center=true&multiline=true&repeat=false&width=405&height=100&lines=Hi%2C+I'm+Slava!;I'm+a+software+developer+%26+devops.;And+the+fianc%C3%A9+of+Liz+Lugasi+%F0%9F%A7%A1">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&center=true&multiline=true&repeat=false&width=405&height=100&lines=Hi%2C+I'm+Slava!;I'm+a+software+developer+%26+devops.;And+Married+To%C3%A9+Liz+Lugasi+%F0%9F%A7%A1">
 
 <a href="https://bugzthebunny.github.io" target="_blank">
  <img src="https://img.shields.io/badge/-Website-blue?logoColor=white&style=for-the-badge">
